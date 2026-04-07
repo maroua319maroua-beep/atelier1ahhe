@@ -11,7 +11,7 @@
 body {
   margin: 0;
   font-family: 'Poppins', sans-serif;
-  background: linear-gradient(135deg, #FFEDCE, #FFC193, #FF8383, #FF3737);
+  background: linear-gradient(135deg, #FFEDCE, #234f78, #339cbf, #4090aa);
   color: #1f2937;
 }
 
@@ -68,8 +68,6 @@ header {
 
 /* Card */
 .card {
-  *
-
   background: white;
   padding: 25px;
   border-radius: 20px;
