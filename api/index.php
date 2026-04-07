@@ -16,7 +16,7 @@ $projects = [
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Basma Elmaimouni | Portfolio</title>
+    <title>MAROUA KANA | Portfolio</title>
     <!-- Fonts & Icons -->
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -25,7 +25,7 @@ $projects = [
        :root {
         --primary: #92487A;   /* متوسط */
         --secondary: #E49BA6; /* وردي */
-        --dark: #540863;      /* غامق */
+        --dark: #e682fa;      /* غامق */
         --bg: #FFD3D5;        /* background */
         --card-bg: rgba(255, 255, 255, 0.85);
         }
@@ -50,7 +50,7 @@ $projects = [
         header h1 {
             font-size: 3rem;
             font-weight: 800;
-            background: linear-gradient(to right, #9cf6ce, #FF8383);
+            background: linear-gradient(to right, #b44de4, #a824dc);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             margin-bottom: 10px;
@@ -205,7 +205,7 @@ $projects = [
 
 <header>
     <span class="badge">Portfolio de Projets</span>
-    <h1>Basma Elmaimouni</h1>
+    <h1>MAROUA KANA</h1>
     <p style="color: var(--secondary)">Développement Digital</p>
 </header>
 
